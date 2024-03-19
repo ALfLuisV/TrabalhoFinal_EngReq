@@ -1,18 +1,18 @@
-# [Nome do projeto]
+# Solidariedade
 
 [Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* Alfredo Luis Vieira
+* Vinicius Salles
+* David Dias Pinto
+* João Pedro de Moura Borges
+* Bruno Evangelista
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
